@@ -1,0 +1,8 @@
+.passwordText {
+  width: 300px;
+  text-align: center;
+  height: 40px;
+  border: none;
+  border-width: none;
+  font-family: 'Roboto';
+}
